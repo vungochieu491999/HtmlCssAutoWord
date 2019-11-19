@@ -1,0 +1,36 @@
+body {
+	background-color: #f3f3f3;
+}
+hr {
+	display: block;
+	border-top: 2px, solid;"
+}
+
+table {
+	margin-left: 15%;
+
+}
+
+tr th {
+	background-color: #6f99db;
+	text-align: center;
+	color: #242628;
+}
+tr td> p {
+	text-align: center;
+}
+tr td>button {	
+	background-color: #4286f4;
+	border: 1px solid;
+	border-radius: 2px;
+	margin-left: 60px;
+}
+a {
+	
+	color: #242628;
+}
+table.fixed {
+	table-layout: fixed;
+}
+table.fixed  td {
+        border: 1px solid;

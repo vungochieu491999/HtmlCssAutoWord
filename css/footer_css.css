@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+.carousel-inner img {
+            width: 100%;
+            height: auto;
+        }
+
+h3 {
+    text-align: center;
+    margin-bottom: 2px;
+    color: black;
+    }
+
+h3:hover {
+    color: midnightblue;
+}
+
+h6 {
+    text-align: center;
+    margin-bottom: 2px;
+    color: black;
+}
